@@ -13,6 +13,12 @@
         "paths": [
           "*"
         ]
+      },
+      {
+        "appIDs": "7J27C6KE2Q.OnceDev.PicturesEverywhere",
+        "paths": [
+          "*"
+        ]
       }
     ]
   }
