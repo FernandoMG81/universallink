@@ -3,19 +3,19 @@
     "apps": [],
     "details": [
       {
-        "appIDs": "6KF8V6Z8HJ.ai.powerup.stori",
+        "appID": "6KF8V6Z8HJ.ai.powerup.stori",
         "paths": [
           "*"
         ]
       },
       {
-        "appIDs": "6KF8V6Z8HJ.com.stori.DeLoreanDemo",
+        "appID": "6KF8V6Z8HJ.com.stori.DeLoreanDemo",
         "paths": [
           "*"
         ]
       },
       {
-        "appIDs": "7J27C6KE2Q.OnceDev.PicturesEverywhere",
+        "appID": "7J27C6KE2Q.OnceDev.PicturesEverywhere",
         "paths": [
           "*"
         ]
