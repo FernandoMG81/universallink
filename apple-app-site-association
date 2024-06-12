@@ -5,6 +5,10 @@
       {
         "appIDs": "6KF8V6Z8HJ.ai.powerup.stori",
         "paths": ["*"]
+      },
+      {
+        "appIDs": "6KF8V6Z8HJ.com.stori.DeLoreanDemo",
+        "paths": ["*"]
       }
      ]
   }
